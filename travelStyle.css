@@ -59,7 +59,7 @@ main{
     margin-bottom: 50px;
 }
 #food img{
-    width: 1000px;
+    width: 900px;
 }
 #contact {
     background-color:#bed3c3;
@@ -75,3 +75,4 @@ footer{
     text-align: center;
     font-size: smaller;
 }
+
