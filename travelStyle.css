@@ -46,13 +46,14 @@ main{
     margin-bottom: 50px;
 }
 #attractions li{
+    text-align: center;
     list-style-type: none;
     margin-top: 10px;
 }
 #attractions img{
     width: 500px;
 }
-#food {
+#food{
     background-color:#bed3c3;
     border: 2px solid #212e53;
     margin-top: 50px;
@@ -61,7 +62,7 @@ main{
 #food img{
     width: 900px;
 }
-#contact {
+#contact{
     background-color:#bed3c3;
     border: 2px solid #212e53;
     margin-top: 50px;
@@ -75,4 +76,5 @@ footer{
     text-align: center;
     font-size: smaller;
 }
+
 
